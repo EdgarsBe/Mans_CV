@@ -1,16 +1,16 @@
-# Mans CV
-Vārds, Uzvārds: Edgars Bērziņš
-E-pasts: edgarsberzins100@gmail.com
-Talr.: +37123304802
-Dzimšanas datums:2004.08.18
-![image of me](Image.jpg)
+# <div align="center">CV</div>
+## Vārds, Uzvārds: Edgars Bērziņš
+## E-pasts: edgarsberzins100@gmail.com
+## Talr.: +37123304802
+## Dzimšanas datums:2004.08.18
+###### ![image of me](Image.jpg)
 
 ## Raksturojums
 ### <div align="center">*Esmu 16 gadus vecs skolnieks, kas mācās PIKC Rīgas Valsts tehnikumā. Mācos par programmētāju, jo vienmēr ir interesējis kā strādā visādas programmas un spēles datorā. Šobrid personīgi nevaru teikt ka zinu kā programmēt vai ka zinu kādu programmēšanas valodu, jo esmu tikai iesācējs un mācos pēc iespējas vairāk, lai kļūtu par labu programmētāju.*</div>
 
 ## Izglītība
-### **2010.g. - 2020.g. - **Ķeguma komercnovirziena vidusskola.**
-### **2020.g. - Šai dienai - **PIKC Rīgas Valsts Tehnikums.**
+### __2010.g. - 2020.g. - **Ķeguma komercnovirziena vidusskola.__
+### __2020.g. - Šai dienai - **PIKC Rīgas Valsts Tehnikums.__
 
 ## Sasniegumi
 
