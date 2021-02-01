@@ -9,8 +9,8 @@
 ### <div align="center">*Esmu 16 gadus vecs skolnieks, kas mācās PIKC Rīgas Valsts tehnikumā. Mācos par programmētāju, jo vienmēr ir interesējis kā strādā visādas programmas un spēles datorā. Šobrid personīgi nevaru teikt ka zinu kā programmēt vai ka zinu kādu programmēšanas valodu, jo esmu tikai iesācējs un mācos pēc iespējas vairāk, lai kļūtu par labu programmētāju.*</div>
 
 ## Izglītība
-### __2010.g. - 2020.g. - **Ķeguma komercnovirziena vidusskola.__
-### __2020.g. - Šai dienai - **PIKC Rīgas Valsts Tehnikums.__
+### __2010.g. - 2020.g. - Ķeguma komercnovirziena vidusskola.__
+### __2020.g. - Šai dienai - PIKC Rīgas Valsts Tehnikums.__
 
 ## Sasniegumi
 
