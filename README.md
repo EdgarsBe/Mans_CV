@@ -1,5 +1,5 @@
 # Mans_CV
-Edgars Bērziņš ![image of me](bildes\Image.jpg)
+Edgars Bērziņš ![image of me](Image.jpg)
 
 ## Izglītība
 
